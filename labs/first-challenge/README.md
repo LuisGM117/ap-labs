@@ -12,7 +12,8 @@ This is the first challenge in your Advanced Programming Class.
 Build Requirements
 ------------------
 ```
-# Build Requirements here
+JDK8
+Eclipse
 ```
 
 
