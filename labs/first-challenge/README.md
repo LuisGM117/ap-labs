@@ -20,7 +20,7 @@ Eclipse
 How to build
 ------------
 ```
-# instructions here
+
 ```
 
 
